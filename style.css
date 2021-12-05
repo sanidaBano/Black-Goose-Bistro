@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #FBF3E8
+}
+
+.logo {
+    padding-left: 325px;
+    justify-content: center;
+    padding-right: 325px;
+}
+
+img {
+   padding-left: 270px;
+   padding-top: 30px;
+}
+
+h2 {
+    padding-left:225px ;
+}
+
+h4 {
+    color: #E6A081;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+
